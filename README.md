@@ -1,3 +1,3 @@
 # Tooling
 
-Yaroslav Urakov!
+Yaroslav Urakov
