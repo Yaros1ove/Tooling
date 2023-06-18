@@ -4,7 +4,7 @@
 Время до LCP: 2977.9 ms <br />
 Время до L:   10311.4 ms <br />
 
-LCP происходит на ```<div class="bannerContainer">...</div>```
+LCP происходит на ```<div class="bannerContainer">...</div>``` <br />
 ![Banner container](image.png)
 
 Loading:    89 ms <br />
